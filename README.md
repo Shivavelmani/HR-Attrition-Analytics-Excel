@@ -25,8 +25,7 @@ benchmark of 12-14%.
 - 20-25 age group most at risk at 35.77%
 
 ## High Risk Employee Profile
-Young (20-25) + Low Salary (Below $2,500) + Overtime (Yes) 
-+ Sales Representative + First Year = Highest attrition risk
+Young (20-25) + Low Salary (Below $2,500) + Overtime (Yes) + Sales Representative + First Year = Highest attrition risk
 
 ## Dashboard Preview
 <img width="1768" height="787" alt="Screenshot 2026-06-09 232008" src="https://github.com/user-attachments/assets/93a4527c-8c81-4ed1-baeb-59ce33e8af50" />
